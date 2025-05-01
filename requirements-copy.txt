@@ -12,7 +12,6 @@ streamlit_modal
 sentence-transformers
 faiss_cpu
 pydantic
-python-dotenv
 pypdf
-
+python-dotenv
 
