@@ -1,6 +1,7 @@
 httpx
 huggingface-hub
 langchain
+langchain-huggingface
 langchain-community
 langchain-core
 langchain-openai
