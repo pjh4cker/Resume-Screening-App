@@ -15,4 +15,5 @@ faiss_cpu
 pydantic
 pypdf
 python-dotenv
+torch
 
