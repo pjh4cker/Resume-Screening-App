@@ -79,10 +79,12 @@ info_message = """
 about_message = """
   # About
 
-  This small program is a prototype designed out of pure interest as additional work for the author's Bachelor's thesis project. 
-  The aim of the project is to propose and prove the effectiveness of RAG-based models in resume screening, thus inspiring more research into this field.
+ This program is developed as part of our Final Year Major Project, driven by a strong interest in the intersection of AI and recruitment automation.
+The core objective of this project is to explore, propose, and validate the effectiveness of Retrieval-Augmented Generation (RAG)-based models for resume screening. By combining advanced retrieval techniques with generative models, we aim to enhance the accuracy and relevance of candidate evaluation processes.
 
-  The program is very much a work in progress. I really appreciate any contribution or feedback on [GitHub](https://github.com/pjh4cker/Resume-Screening-RAG-Pipeline).
+Though the system is still under active development, it serves as a foundational implementation that demonstrates the potential of this approach. We hope that this work will encourage further research and development in AI-powered hiring solutions.
+
+  The program is very much a work in progress. I really appreciate any contribution or feedback on [GitHub](https://github.com/pjh4cker/Resume-Screening-App).
 
   If you are interested, please don't hesitate to give me a star. ⭐
 """
